@@ -14,7 +14,7 @@
     "jest": "^24.8.0",
     "jest-sonar-reporter": "^2.0.0",
     "sonarqube-scanner": "^2.5.0",
-    "ts-jest": "^23.0.1",
+    "ts-jest": "^24.3.0",
     "typescript": "^3.5.3"
   }
 }
